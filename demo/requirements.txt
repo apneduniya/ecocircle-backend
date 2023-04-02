@@ -1,0 +1,5 @@
+fastapi
+pydantic[standard]
+pycsv==0.2.0
+datetime
+fastapi_mail
